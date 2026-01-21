@@ -7,8 +7,16 @@
 ---
 
 ## 🔗 Connect with me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 🧑‍💻 GitHub: https://github.com/your-username
+<a href="https://www.linkedin.com/in/doaaelomda/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" />
+</a>
+<a href="https://github.com/doaaelomda" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" />
+</a>
+<a href="https://www.facebook.com/doaa.elsayed.elomda/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="25" />
+</a>
+
 
 ---
 
@@ -44,6 +52,7 @@
 **APIs & Integration:**
 - REST APIs
 - Swagger
+- Postman
 
 ---
 
@@ -59,11 +68,20 @@
 ## 📂 Projects
 
 ### 🌐 Angular Projects
-- Enterprise Compliance Management System
-- Banking Web Applications (Maker / Checker Flow)
-- Dynamic Forms & Data Tables
-- Reusable UI Components Library
-- Angular Standalone Migration (v15 → v16)
+-Bayantouz, gfw-Portal
+Angular + Nx Monorepo (multiple apps & libraries)
+API integration (Swagger) & performance improvements
+
+-EgabiFSI (Tamaya, Shari, Reefy, Rade, Mid, Erada, Bedayti)
+Banking microfinance platform (SPA)
+Improved scalability & maintainability
+
+-Alsahm Soft, Roya Company
+Static company websites (HTML, CSS, JS, Bootstrap, jQuery)
+
+-Affsquare, WARCAMP, Furniture
+Task management platform (Angular SPA)
+API integration & testing (Postman)
 
 ---
 
