@@ -1,28 +1,30 @@
 # Hi 👋, I'm Doaa Elomda
 
-💻 Frontend Developer | Angular Specialist  
-🚀 Passionate about building scalable, high-performance web applications  
-🧠 Clean Code | Reusable Components | Performance Optimization  
+💻 Frontend Developer @ Bayantouz | Angular Specialist | Ex-Frontend Developer | UI/UX Enthusiast | Clean Code | Performance Optimization | SPA
+ 
 
 ---
 
 ## 🔗 Connect with me
-<a href="https://www.linkedin.com/in/doaaelomda/" target="_blank">
+<a href="https://www.linkedin.com/in/doaaelomda/" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" />
 </a>
-Doaa Elomda
+&nbsp; Doaa Elomda
+
 <br>
-,لاق
-<a href="https://github.com/doaaelomda" target="_blank">
+
+<a href="https://github.com/doaaelomda" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" />
 </a>
-Doaa Elomda
+&nbsp; Doaa Elomda
+
 <br>
-<a href="https://www.facebook.com/doaa.elsayed.elomda/" target="_blank">
+
+<a href="https://www.facebook.com/doaa.elsayed.elomda/" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="25" />
 </a>
-Doaa Elomda
-<br>
+&nbsp; Doaa Elomda
+
 
 
 ---
@@ -36,6 +38,8 @@ Doaa Elomda
 - Tailwind CSS, Bootstrap
 - SCSS / Sass
 - PrimeNg
+- Service Workers
+- Ionic Framework
 
 **Programming:**
 - TypeScript
