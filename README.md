@@ -1,29 +1,98 @@
+# Hi 👋, I'm Doaa Elomda
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+💻 Frontend Developer | Angular Specialist  
+🏢 Frontend Developer @Bayatouz Information Technology  
+🚀 Passionate about building scalable, high-performance web applications  
+🧠 Clean Code | Reusable Components | Performance Optimization  
 
-<h3 align="center">
-  Welcome to Doaa Elsayed 's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+---
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend devoloper;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+## 🔗 Connect with me
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 🧑‍💻 GitHub: https://github.com/your-username
 
-- 🏢 I'm a Software Engineer (Frontend-Angular)
-- 👨‍💻 As a FCI-ZU Graduated, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with html,html5,css2,css3,javascript,bootstrap,sass,OOP,Angular Framework
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+---
 
+## 🛠️ Languages & Tools
 
-### Connect with Me :
+**Frontend:**
+- Angular (15–16-20)
+- Angular Material
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap
+- SCSS / Sass
+- PrimeNg
 
-<a href="https://www.linkedin.com/in/doaa-elomda" target="_blank"><img src="https://img.shields.io/badge/-Doaa Elomda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+**Programming:**
+- TypeScript
+- JavaScript
 
-<a href="https://www.facebook.com/profile.php?id=100006421683570" target="_blank"><img src="https://img.shields.io/badge/-Doaa%20Elomda-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+**Concepts & Architecture:**
+- OOP
+- SOLID Principles
+- Clean Code
+- Responsive Design
+- Modular Architecture
+- Standalone Components
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doaaelomda&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=doaaelomda&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+**Tools & Workflow:**
+- Git, GitHub, GitLab
+- Nx Workspace
+- Webpack
+- NVM
+- GitHub Desktop
+
+**APIs & Integration:**
+- REST APIs
+- Swagger
+
+---
+
+## 💼 Experience
+- Frontend Developer with hands-on experience in enterprise-level applications
+- Worked on **Banking & Compliance Systems**
+- Built and maintained multiple Angular modules inside large-scale projects
+- Improved application performance and user experience
+- Integrated APIs and enhanced UI consistency
+
+---
+
+## 📂 Projects
+
+### 🌐 Angular Projects
+- Enterprise Compliance Management System
+- Banking Web Applications (Maker / Checker Flow)
+- Dynamic Forms & Data Tables
+- Reusable UI Components Library
+- Angular Standalone Migration (v15 → v16)
+
+---
+
+### ⚙️ Frontend Features
+- Dynamic Dropdowns & Forms
+- Advanced Validation Handling
+- Custom Pipes (Date Formatting, Text Processing)
+- Conditional Rendering & State Management
+- Performance Optimization Techniques
+
+---
+
+## 📚 Practice & Learning
+- Advanced Angular Concepts
+- RxJS & State Handling
+- UI/UX Best Practices
+- Performance Optimization
+- Modern Frontend Architecture
+
+---
+
+## 📌 What I’m Currently Working On
+- Improving Angular performance
+- Building reusable & scalable components
+- Enhancing enterprise UI/UX
+- Exploring advanced Standalone Architecture
+
+---
+
+⭐ Feel free to explore my repositories and projects  
+⭐ Always open to collaboration and learning
