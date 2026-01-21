@@ -10,12 +10,19 @@
 <a href="https://www.linkedin.com/in/doaaelomda/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" />
 </a>
+Doaa Elomda
+<br>
+,لاق
 <a href="https://github.com/doaaelomda" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" />
 </a>
+Doaa Elomda
+<br>
 <a href="https://www.facebook.com/doaa.elsayed.elomda/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="25" />
 </a>
+Doaa Elomda
+<br>
 
 
 ---
