@@ -1,7 +1,6 @@
 # Hi 👋, I'm Doaa Elomda
 
 💻 Frontend Developer | Angular Specialist  
-🏢 Frontend Developer @Bayatouz Information Technology  
 🚀 Passionate about building scalable, high-performance web applications  
 🧠 Clean Code | Reusable Components | Performance Optimization  
 
